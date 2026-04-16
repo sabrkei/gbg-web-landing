@@ -1,0 +1,16 @@
+{
+  "name": "GBG Web",
+  "short_name": "GBG Web",
+  "description": "A new freelance web design studio is coming soon.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f8f8",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/gbgwebfavicon.png",
+      "sizes": "any",
+      "type": "image/png"
+    }
+  ]
+}
