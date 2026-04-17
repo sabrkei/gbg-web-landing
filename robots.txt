@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://gbg-web.com/sitemap.xml
